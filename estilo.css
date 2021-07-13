@@ -1,0 +1,90 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+    text-align: center;
+    image-orientation: center;
+}
+
+.menu {
+	line-height: 100px;
+}
+.menu a {
+	text-decoration: none;
+	font-family: poppins;
+	letter-spacing: 4px;
+	font-size: 20px;
+	margin: 0 10px;
+	color: white;
+}
+
+.inicio {
+    width: 100%;
+	height: 650px;
+	top: 100px;
+    background-image: url(https://wallpapercave.com/wp/wp3071036.jpg);
+	background-size: cover;
+	background-position: center center;
+}
+
+.tamanho {
+    width: 350px;
+    padding-right: 50%;
+}
+
+.nomeinicio {
+    font-family: poppins;
+    text-align: center;
+    padding-top: 15%;
+	font-size: 70px;
+    color: white
+}
+
+.titulos {
+    font-family: poppins;
+    text-align: center;
+	padding-top: 20px;
+	font-size: 40px;
+	margin: 0;
+}
+
+.fotos{
+    max-width:450px;
+    max-height:450px;
+    width: auto;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.estilo{
+    background: #ebebeb;
+}
+.textos {
+	font-family: poppins;
+    font-size: 20px;
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.pet {
+    max-width:400px;
+    max-height:400px;
+    width: auto;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.gif {
+    text-align: center;
+   padding: 15px;
+}
+
+footer {
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
